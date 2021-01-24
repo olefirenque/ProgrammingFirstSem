@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ITMO_Programming/lab14/bmp.h
+
+C:/ITMO_Programming/lab14/main.c
+stdio.h
+-
+stdlib.h
+-
+direct.h
+-
+bmp.h
+C:/ITMO_Programming/lab14/bmp.h
+
